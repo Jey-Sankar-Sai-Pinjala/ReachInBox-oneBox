@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ReachInbox Onebox - AI-Powered Email Management System
 
 A comprehensive email management system with real-time IMAP synchronization, AI-powered categorization, and intelligent reply suggestions using RAG (Retrieval-Augmented Generation).
@@ -402,6 +402,7 @@ reachinbox-onebox/
 4. Add tests
 5. Submit a pull request
 
+DEMO VIDEO : https://github.com/Jey-Sankar-Sai-Pinjala/ReachInBox-oneBox/blob/main/demo_video.mp4
 
 **Built with ❤️ for the ReachInbox Assessment**
 
