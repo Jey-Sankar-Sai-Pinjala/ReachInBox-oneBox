@@ -402,21 +402,7 @@ reachinbox-onebox/
 4. Add tests
 5. Submit a pull request
 
-## 📄 License
-
-MIT License - see LICENSE file for details
-
-## 🆘 Support
-
-For issues and questions:
-1. Check the troubleshooting section
-2. Review logs for error messages
-3. Create an issue with detailed information
-
----
 
 **Built with ❤️ for the ReachInbox Assessment**
 
-=======
-# ReachInBox-oneBox
->>>>>>> 414b99c78d8585597205bcdcc8ac3603c2f70946
+
